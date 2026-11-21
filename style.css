@@ -88,13 +88,13 @@ nav a:hover{
 }
 
 .online-dot{
-    width: 30px;
+    width: 9px;
     height: 9px;
     background: #39d6a0;
     border-radius: 50%;
 }
 #clock{
-    color: white;
-    font-family: monospace;
+    color: rgb(165, 245, 182);
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 10px;
 }
